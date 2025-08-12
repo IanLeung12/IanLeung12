@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-# 💫 About Me:
 📚 I'm a First Year Student at University of Waterloo<br>🌱 I like Data Science and Machine Learning<br>⚡ I'm also interested in Games and Research
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ianl012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianleung12) 
