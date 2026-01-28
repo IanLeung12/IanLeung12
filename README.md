@@ -7,4 +7,4 @@
 # 📊 GitHub Stats:
 ![Ian's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ianleung12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianleung12) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianleung12) ![](https://komarev.com/ghpvc/?username=IanLeung12&color=lightgrey)
