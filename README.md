@@ -1,10 +1,15 @@
-## Hi there 👋
-📚 I'm a First Year Student at University of Waterloo (CS/Finance Double Major)<br>🌱 I like Data Science and Machine Learning<br>⚡ I'm also interested in Games and Research<br> 🛠️ Doing something cool with audio
+### Hi I'm Ian
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+Currently Dual Majoring in Computer Science & Finance at the University of Waterloo. Interested in anything related to problem solving — ML, Systems, Research, Games, Puzzles, etc.
 
-# 📊 Stats:
+
+**Coding Languages:** &nbsp;![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=96470e) ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=sharp&logoColor=4a089c) ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=1228b8) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=kotlin&logoColor=a1107a) ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=4169E1)
+
+**Tools:** &nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch&logoColor=EE4C2C) ![Firebase](https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase&logoColor=FFCA28) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=47A248) ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=2496ED) ![Render](https://img.shields.io/badge/Render-000?style=flat&logo=render&logoColor=46E3B7) ![Modal](https://img.shields.io/badge/Modal-000?style=flat&logo=modal&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-000?style=flat&logo=qt&logoColor=41CD52) ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat&logo=opencv&logoColor=5C3EE8) ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=F05032) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+#### Stats:
 
 [![LeetCode Stats](https://leetcode-stats-flame.vercel.app/ianleung12?theme=nord&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/ianleung12/)
 
