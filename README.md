@@ -1,6 +1,7 @@
 ### Hi I'm Ian
 
-Currently Dual Majoring in Computer Science & Finance at the University of Waterloo. Interested in anything related to problem solving — ML, Systems, Research, Games, Puzzles, etc.
+Currently Dual Majoring in Computer Science & Finance at the University of Waterloo. 
+Interested in anything related to problem solving — ML, Systems, Research, Games, Puzzles, etc.
 
 
 **Coding Languages:** &nbsp;![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=96470e) ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=00599C) ![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=sharp&logoColor=4a089c) ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=1228b8) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=kotlin&logoColor=a1107a) ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=4169E1)
