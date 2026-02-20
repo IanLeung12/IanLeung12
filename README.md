@@ -9,7 +9,6 @@ Interested in anything related to problem solving — ML, Systems, Research, Gam
 **Tools:** &nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat&logo=pytorch&logoColor=EE4C2C) ![Firebase](https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase&logoColor=FFCA28) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat&logo=mongodb&logoColor=47A248) ![Docker](https://img.shields.io/badge/Docker-000?style=flat&logo=docker&logoColor=2496ED) ![Render](https://img.shields.io/badge/Render-000?style=flat&logo=render&logoColor=46E3B7) ![Modal](https://img.shields.io/badge/Modal-000?style=flat&logo=modal&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-000?style=flat&logo=qt&logoColor=41CD52) ![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat&logo=opencv&logoColor=5C3EE8) ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git&logoColor=F05032) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
 
 ---
-
 <div align="center">
 
 ## Stats
