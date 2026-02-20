@@ -12,8 +12,9 @@ Interested in anything related to problem solving — ML, Systems, Research, Gam
 
 ### Stats:
 
-[![LeetCode Stats](https://leetcode-stats-flame.vercel.app/ianleung12?theme=nord&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/ianleung12/)
-
-![Top Languages](./profile/top-langs.svg)
+<table border="0"><tr>
+<td valign="top"><a href="https://leetcode.com/u/ianleung12/"><img src="https://leetcode-stats-flame.vercel.app/ianleung12?theme=nord&font=JetBrains%20Mono&ext=contest" width="350"/></a></td>
+<td valign="top"><img src="./profile/top-langs.svg"/></td>
+</tr></table>
 
 ![](https://komarev.com/ghpvc/?username=IanLeung12&color=orange) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianleung12) 
