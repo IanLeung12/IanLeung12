@@ -10,7 +10,7 @@ Interested in anything related to problem solving — ML, Systems, Research, Gam
 
 ---
 
-#### Stats:
+### Stats:
 
 [![LeetCode Stats](https://leetcode-stats-flame.vercel.app/ianleung12?theme=nord&font=JetBrains%20Mono&ext=contest)](https://leetcode.com/u/ianleung12/)
 
