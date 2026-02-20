@@ -1,4 +1,4 @@
-### Hi I'm Ian
+## Hi I'm Ian
 
 Currently Dual Majoring in Computer Science & Finance at the University of Waterloo. <br>
 Interested in anything related to problem solving — ML, Systems, Research, Games, Puzzles, etc.
@@ -12,7 +12,7 @@ Interested in anything related to problem solving — ML, Systems, Research, Gam
 
 <div align="center">
 
-### Stats
+## Stats
 
 <a href="https://leetcode.com/u/ianleung12/"><img src="https://leetcode-stats-flame.vercel.app/ianleung12?theme=nord&font=JetBrains%20Mono&ext=contest" width="350" align="top"/></a>&nbsp;&nbsp;<img src="./profile/top-langs.svg" align="top"/>
 
