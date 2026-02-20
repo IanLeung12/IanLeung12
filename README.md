@@ -10,8 +10,14 @@ Interested in anything related to problem solving — ML, Systems, Research, Gam
 
 ---
 
-### Stats:
+<div align="center">
+
+### Stats
 
 <a href="https://leetcode.com/u/ianleung12/"><img src="https://leetcode-stats-flame.vercel.app/ianleung12?theme=nord&font=JetBrains%20Mono&ext=contest" width="350" align="top"/></a>&nbsp;&nbsp;<img src="./profile/top-langs.svg" align="top"/>
 
-![](https://komarev.com/ghpvc/?username=IanLeung12&color=orange) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianleung12) 
+<p align="center">
+<a href="https://linkedin.com/in/ianleung12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ianleung12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ianleung12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ianleung12" height="30" width="40" /></a>
+</p>
+</div>
