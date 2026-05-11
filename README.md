@@ -1,7 +1,7 @@
 ## Hi I'm Ian
 
 Currently Dual Majoring in Computer Science & Finance at the University of Waterloo. <br>
-Interested in anything related to problem solving — ML, Systems, Research, Games, Puzzles, etc.
+Interested in anything related to problem solving — ML, Systems, Research, Games, Puzzles, etc. <br>
 working on my personal website and tells.dev
 
 ### Experience:
