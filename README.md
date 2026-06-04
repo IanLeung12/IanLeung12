@@ -6,9 +6,9 @@ working on my personal website and tells.dev
 
 ### Experience:
 
-\- Cur. Networking Infra Engineer @ [![Roblox](https://img.shields.io/badge/Roblox-159?style=flat&logo=Roblox&logoColor=FFFFFF)](https://about.roblox.com/)
+\- Cur. Networking Infra Engineer @ [Roblox](https://about.roblox.com/)
 
-\- Prev. Software & Healthcare Research @ [![Sunnybrook](https://img.shields.io/badge/Sunnybrook-484?style=flat&logo=accuweather&logoColor=FFFFFF)](https://sunnybrook.ca/)
+\- Prev. Software & Healthcare Research @ [Sunnybrook](https://sunnybrook.ca/)
 
 ---
 **Coding Languages:** &nbsp;![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=FFFFFF) ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=FFFFFF) ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=sharp&logoColor=FFFFFF) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=FFFFFF) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=kotlin&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=FFFFFF)
