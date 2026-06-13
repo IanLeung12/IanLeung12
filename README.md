@@ -8,7 +8,7 @@ working on my personal website and tells.dev
 
 \- Cur. Networking Infra Engineer @ [Roblox](https://about.roblox.com/)
 
-\- Prev. Software & Healthcare Research @ [Sunnybrook Research Institute](https://research.sunnybrook.ca/)
+\- Prev. Software & Focused Ultrasound Research @ [Sunnybrook Research Institute](https://research.sunnybrook.ca/)
 
 ---
 **Coding Languages:** &nbsp;![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=openjdk&logoColor=FFFFFF) ![C++](https://img.shields.io/badge/C++-000?style=flat&logo=c%2B%2B&logoColor=FFFFFF) ![C](https://img.shields.io/badge/C-000?style=flat&logo=c&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=sharp&logoColor=FFFFFF) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=FFFFFF) ![Kotlin](https://img.shields.io/badge/Kotlin-000?style=flat&logo=kotlin&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql&logoColor=FFFFFF)
