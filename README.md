@@ -6,7 +6,7 @@ working on my personal website and tells.dev
 
 ### Experience:
 
-\- Cur. Networking Infra Engineer @ [Roblox](https://about.roblox.com/)
+\- Cur. Networking Infra SWE @ [Roblox](https://about.roblox.com/)
 
 \- Prev. Software & Focused Ultrasound Research @ [Sunnybrook Research Institute](https://research.sunnybrook.ca/)
 
