@@ -6,7 +6,7 @@ Open for Winter/Summer 2027 internships
 
 ### Experience:
 
-\- Cur. Networking Infra SWE @ [Roblox](https://about.roblox.com/)
+\- Prev. Networking Infra SWE @ [Roblox](https://about.roblox.com/)
 
 \- Prev. Software & Focused Ultrasound Research @ [Sunnybrook Research Institute](https://research.sunnybrook.ca/)
 
