@@ -1,7 +1,7 @@
 ## Hi I'm Ian
 
 Studying Computer Science, Finance, & Statistics at the University of Waterloo. <br>
-Interested in anything related to problem solving — Infra, ML, Systems, Research, Games, Puzzles, etc. <br>
+Interested in anything related to problem solving — Infra, ML/AI, Systems, Research, Games, Puzzles, etc. <br>
 Open for Winter/Summer 2027 internships
 
 ### Experience:
