@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ian Leung's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  : 1173, Total PRs: 390, Total Issues: 13, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  : 1176, Total PRs: 390, Total Issues: 13, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 134.10931599088718;
+        stroke-dashoffset: 134.07072591137495;
       }
     }
   
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >5</text>
+      >4</text>
     </g>
   </g>
     </svg>
